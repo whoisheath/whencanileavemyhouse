@@ -1,12 +1,16 @@
 body {
     text-align: center;
     font-family: "Arial", Helvetica, sans-serif;
-    height: 100vh;
-    width: 100vw;
+    height: 100%;
+    width: 99%;
     background-image: url("i_miss_outside.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+#main {
+    margin: 10% auto;
 }
 
 #timer {
