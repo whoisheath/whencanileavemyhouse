@@ -1,0 +1,36 @@
+body {
+    text-align: center;
+    font-family: "Arial", Helvetica, sans-serif;
+    height: 100vh;
+    width: 100vw;
+    background-image: url("i_miss_outside.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#timer {
+    color: red;
+    font-size: 4rem;
+}
+
+#donate-area {
+    margin: 50px;
+}
+
+#donate-tag {
+    padding: 15px;
+}
+
+a {
+    color: white;
+    background-color: #666;
+    margin: 50px;
+    padding: 1em 1.5em;
+    text-decoration: none;
+    border-radius: 15px;
+}
+
+a:hover {
+    background-color: #999;
+}
